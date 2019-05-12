@@ -19,7 +19,9 @@ We broke up our project into two stages: the teaching stage and the testing stag
 <img src="images/stages.png" style="width: 60%; display: block; margin: auto;" />
 
 ## Results
-<iframe width="560" height="315" src="https://www.youtube.com/embed/knuFI5SsM_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/knuFI5SsM_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Test Shape 1
 <div style="text-align: center;">
