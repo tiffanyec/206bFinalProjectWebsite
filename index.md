@@ -30,7 +30,7 @@ The first shape only required the robotic hand and the dough and we wanted one o
 
 Rigid transformation and non-rigid transformation:
 <div style="text-align: center;">
-  <img src="images/image26.gif" style="width: 20%;" /><img src="images/image18.gif" style="width: 20%;" />
+  <img src="images/image26.gif" style="width: 40%;" />   <img src="images/image18.gif" style="width: 40%;" />
 </div>
 
 ### Test Shape 2
