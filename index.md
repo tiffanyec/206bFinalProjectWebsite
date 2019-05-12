@@ -14,7 +14,7 @@ For our project, we used a 4 DOF BarrettHand BH8-282 implented with ROS, a 6 DOF
 
 <img src="images/image33.png" style="width: 50%; display: block; margin: auto;" />
 
-We broke up our project into two stages: the teaching stage and the testing stage. In the teaching stage, the soft object begins in some initial shape and the robot applies some force F on it to reshape it. A point cloud of the objects new shape is then obtained to observe what applying the force did to reshape the object. In the testing tage, the robot is given a desired shape that we wish the soft object to become. It then calculates a rigid body transformation using the point clouds obtained in the teaching stage in order to find the force needed it needs to apply in order to reshape the object into the goal shape. 
+We broke up our project into two stages: the teaching stage and the testing stage. In the teaching stage, the soft object begins in some initial shape and the robot applies some force F on it to reshape it. A point cloud of the objects new shape is then obtained to observe what applying the force did to reshape the object. In the testing tage, the robot is given a desired shape that we wish the soft object to become. It then calculates a non-rigid transformation T using the point clouds obtained in the teaching stage in order to find the force needed it needs to apply in order to reshape the object into the goal shape. 
 
 <img src="images/stages.png" style="width: 60%; display: block; margin: auto;" />
 
