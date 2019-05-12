@@ -25,7 +25,7 @@ During our trials, we had two different shapes that we wanted the robot to resha
 The first shape only required the robotic hand and the dough and we wanted one of the fingers to apply a force to one point on the dough and create an indentation there.
 
 <div style="text-align: center;">
-  <img src="images/image12.png" style="width: 20%;" /><img src="images/image10.png" style="width: 20%;" /><img src="images/image13.png" style="width: 20%;" /><img src="images/image11.png" style="width: 20%;" />
+  <img src="images/image12.png" style="width: 20%;" /><img src="images/image10.png" style="width: 20%;" /><img src="images/image11.png" style="width: 20%;" /><img src="images/image13.png" style="width: 20%;" />
 </div>
 
 ### Test Shape 2
