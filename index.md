@@ -21,16 +21,18 @@ We broke up our project into two stages: the teaching stage and the testing stag
 ## Results
 <iframe width="560" height="315" src="https://www.youtube.com/embed/knuFI5SsM_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Test Shape 1
 <div style="text-align: center;">
   <img src="images/image24.png" style="width: 30%;" /><img src="images/image23.png" style="width: 30%;" />
 </div>
 
+### Test Shape 2
 <div style="text-align: center;">
   <img src="images/image31.png" style="width: 30%;" /><img src="images/image32.png" style="width: 30%;" />
 </div>
 
 ## Conclusion
-
+Overall, we were succesfully able to have our robot reshape a soft dough into a desired shape with minimal errors. Our first test shape is not completely accurate because of two indentations that occur opposite of the desired indentation. This however is unavoidable because two of the robots fingers are needed to stop the object from moving while the the third finger exerts a force on the object to reshape it and the objects being soft causes the two supporting fingers to also leave imprints. We also assume the initial state of our object for the rigid body transformations and in a real world setting the initial shape of the soft object may not be guaranteed and this would not be practical. We also do not take the material that the object is made of into account. We used a dough in our experiments that is very soft and easy to reshape but other objects, such as modeling clay, can also be reshaped but is much firmer and would require much more force to be reshaped. 
 
 ## Team Bios
 
