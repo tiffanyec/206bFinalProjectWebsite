@@ -25,7 +25,7 @@ During our trials, we had two different shapes that we wanted the robot to resha
 The first shape only required the robotic hand and the dough and we wanted one of the fingers to apply a force to one point on the dough and create an indentation there.
 
 <div style="text-align: center;">
-  <img src="images/image12.png" style="width: 30%;" /><img src="images/image10.png" style="width: 30%;" /><img src="images/image13.png" style="width: 30%;" /><img src="images/image11.png" style="width: 30%;" />
+  <img src="images/image12.png" style="width: 20%;" /><img src="images/image10.png" style="width: 20%;" /><img src="images/image13.png" style="width: 20%;" /><img src="images/image11.png" style="width: 20%;" />
 </div>
 
 ### Test Shape 2
@@ -33,7 +33,7 @@ The first shape only required the robotic hand and the dough and we wanted one o
 The second shape used a flexible plastic mold along with the robot and the dough. The plastic was placed around the dough and the robot's fingers pressed against the mold in order to shape the dough into a square-like shape with smooth sides.
 
 <div style="text-align: center;">
-  <img src="images/image29.png" style="width: 30%;" /><img src="images/image27.png" style="width: 30%;" /><img src="images/image25.png" style="width: 30%;" /><img src="images/image19.png" style="width: 30%;" />
+  <img src="images/image29.png" style="width: 20%;" /><img src="images/image27.png" style="width: 20%;" /><img src="images/image25.png" style="width: 20%;" /><img src="images/image19.png" style="width: 20%;" />
 </div>
 
 ## Results
