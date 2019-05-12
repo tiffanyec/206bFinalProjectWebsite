@@ -18,6 +18,24 @@ We broke up our project into two stages: the teaching stage and the testing stag
 
 <img src="images/stages.png" style="width: 60%; display: block; margin: auto;" />
 
+During our trials, we had two different shapes that we wanted the robot to reshape the dough into.
+
+### Test Shape 1
+
+The first shape only required the robotic hand and the dough and we wanted one of the fingers to apply a force to one point on the dough and create an indentation there.
+
+<div style="text-align: center;">
+  <img src="images/image12.png" style="width: 30%;" /><img src="images/image10.png" style="width: 30%;" /><img src="images/image13.png" style="width: 30%;" /><img src="images/image11.png" style="width: 30%;" />
+</div>
+
+### Test Shape 2
+
+The second shape used a flexible plastic mold along with the robot and the dough. The plastic was placed around the dough and the robot's fingers pressed against the mold in order to shape the dough into a square-like shape with smooth sides.
+
+<div style="text-align: center;">
+  <img src="images/image29.png" style="width: 30%;" /><img src="images/image27.png" style="width: 30%;" /><img src="images/image25.png" style="width: 30%;" /><img src="images/image19.png" style="width: 30%;" />
+</div>
+
 ## Results
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/knuFI5SsM_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
