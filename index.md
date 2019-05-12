@@ -28,6 +28,11 @@ The first shape only required the robotic hand and the dough and we wanted one o
   <img src="images/image12.png" style="width: 20%;" /><img src="images/image10.png" style="width: 20%;" /><img src="images/image11.png" style="width: 20%;" /><img src="images/image13.png" style="width: 20%;" />
 </div>
 
+Rigid transformation and non-rigid transformation:
+<div style="text-align: center;">
+  <img src="images/image26.gif" style="width: 20%;" /><img src="images/image18.gif" style="width: 20%;" />
+</div>
+
 ### Test Shape 2
 
 The second shape used a flexible plastic mold along with the robot and the dough. The plastic was placed around the dough and the robot's fingers pressed against the mold in order to shape the dough into a square-like shape with smooth sides.
