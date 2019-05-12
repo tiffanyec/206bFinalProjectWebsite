@@ -21,9 +21,13 @@ We broke up our project into two stages: the teaching stage and the testing stag
 ## Results
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=knuFI5SsM_Y&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="images/image24.png" style="width: 30%; display: block; margin: auto;" /><img src="images/image23.png" style="width: 30%; display: block; margin: auto;" />
+<div style="text-align: center;">
+  <img src="images/image24.png" style="width: 30%;" /><img src="images/image23.png" style="width: 30%;" />
+</div>
 
-<img src="images/image31.png" style="width: 30%; display: block; margin: auto;" /><img src="images/image32.png" style="width: 30%; display: block; margin: auto;" />
+<div style="text-align: center;">
+  <img src="images/image31.png" style="width: 30%;" /><img src="images/image32.png" style="width: 30%;" />
+</div>
 
 ## Conclusion
 
