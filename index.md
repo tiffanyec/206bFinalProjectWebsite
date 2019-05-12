@@ -1,37 +1,20 @@
 ## Project Overview
 
-You can use the [editor on GitHub](https://github.com/tiffanyec/206bFinalProjectWebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of our project was to have a multifingered robotic hand be able to reshape a soft object into a desired shape. This functionality could be utilized in industries where soft and malleable objects need to be reshaped consistently or in places where the object needing to be reshaped could consist of potentially harmful chemicals or materials and a human could potentially be exposed to danger or harm. Replacing the human with a robotic arm capable of performing the same task would decrease the risk of a person getting harmed while also increasing the consistency of the reshaping. Some examples of industries in which this could be utilized include the food processing industry, biomedical processing, and robotized surgery. 
 
 ## Implementation and Results
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Conclusion
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tiffanyec/206bFinalProjectWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Team Bios
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Xinghao Zhu 
+
+### Guangzhao Yang 
+
+### Ting Xu 
+
+### Tiffany Cappellari
+
