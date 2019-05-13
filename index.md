@@ -48,12 +48,12 @@ The second shape used a flexible plastic mold along with the robot and the dough
   <iframe width="560" height="315" src="https://www.youtube.com/embed/knuFI5SsM_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Test Shape 1
+### Test Shape 1: Desired and Actual
 <div style="text-align: center;">
   <img src="images/image24.png" style="width: 30%;" /><img src="images/image23.png" style="width: 30%;" />
 </div>
 
-### Test Shape 2
+### Test Shape 2: Desired and Actual
 <div style="text-align: center;">
   <img src="images/image31.png" style="width: 30%;" /><img src="images/image32.png" style="width: 30%;" />
 </div>
