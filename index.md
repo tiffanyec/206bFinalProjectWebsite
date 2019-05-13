@@ -6,6 +6,8 @@ The goal of our project was to have a multifingered robotic hand be able to resh
 
 ## Implementation
 
+Note: Because our code belongs to the Mechanical Systems Control Lab, we were told that we cannot post it online and cannot provide a link to our github.
+
 We formulated our problem as having a soft object (in our case a ball of dough) in an initial shape and having some desired end shape that we want the robot to mold the object into. To do this, our main problem for the project was for the robot to find the amount of force it needs to apply in order to achieve the goal shape.
 
 <img src="images/problemStatement.png" style="width: 60%; display: block; margin: auto;" />
