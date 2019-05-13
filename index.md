@@ -66,6 +66,7 @@ Overall, we were successfully able to have our robot reshape a soft dough into a
 ### Xinghao Zhu 
 
 ### Guangzhao Yang 
+I am a 5th year EECS M.S. student concentrated in Robotics and System Control, and currently work in Professor Ronald S. Fearing's Biomimetic Millisystems Laboratory on legged millirobots cooperation.
 
 ### Ting Xu 
 
