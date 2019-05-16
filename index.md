@@ -64,6 +64,8 @@ Overall, we were successfully able to have our robot reshape a soft dough into a
 ## Team Bios
 
 ### Xinghao Zhu 
+Xinghao is a 1st year Ph.D. student in ME. He works with Prof. Masayoshi Tomizuka in Mechanical Systems Control (MSC) Labortorary. 
+His research interest lies in interdisciplinary combination of Robotics, Artificial Intelligence and Control theories, with the fields in robotic dexterity research (grasping, manipulation and assembly) and human robot interaction (collision avoidance, motion planning and human robot collaboration).
 
 ### Guangzhao Yang 
 Guangzhao is a 5th year EECS M.S. student concentrated in Control, Intelligent Systems and Robotics, and currently works in Professor Ronald S. Fearing's Biomimetic Millisystems Laboratory on legged millirobots cooperation.
