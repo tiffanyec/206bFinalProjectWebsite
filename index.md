@@ -69,6 +69,7 @@ Overall, we were successfully able to have our robot reshape a soft dough into a
 Guangzhao is a 5th year EECS M.S. student concentrated in Control, Intelligent Systems and Robotics, and currently works in Professor Ronald S. Fearing's Biomimetic Millisystems Laboratory on legged millirobots cooperation.
 
 ### Ting Xu 
+Ting is a 1st year M.S student in ME with a concentration in Control. She is currently in the robotics team under Prof. Tomizuka's Mechanical Systems Control labtoratory.
 
 ### Tiffany Cappellari
 Tiffany is a current 3rd year undergradtuate student at the University of California, Berkeley studying Electrical Engineering and Computer Science. She has previously taken 106a before taking 106b.
