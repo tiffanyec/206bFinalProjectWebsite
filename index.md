@@ -74,5 +74,5 @@ Guangzhao is a 5th year EECS M.S. student concentrated in Control, Intelligent S
 Ting is a 1st year M.S student in ME with a concentration in Control. She is currently in the robotics team under Prof. Tomizuka's Mechanical Systems Control labtoratory.
 
 ### Tiffany Cappellari
-Tiffany is a current 3rd year undergradtuate student at the University of California, Berkeley studying Electrical Engineering and Computer Science. She has previously taken 106a before taking 106b.
+Tiffany is a current 3rd year undergradtuate student at the University of California, Berkeley studying Electrical Engineering and Computer Science. She currently works in Prof. Ronald Fearing's Biomimetic Millisystems Lab.
 
